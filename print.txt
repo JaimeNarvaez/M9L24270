@@ -1,1 +1,1 @@
-print("Hola Chicos")
+print("Quienes no hicieron la tarea les restare 10 puntos")
